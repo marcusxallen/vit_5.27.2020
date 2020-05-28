@@ -1,0 +1,15 @@
+/* . = class */
+/* # = id */
+
+#header {
+    color: blue;
+    font-family: cursive;
+}
+
+#nav {
+    color: darkolivegreen;
+}
+
+#body {
+    color: rgb(93, 92, 170);
+}
